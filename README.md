@@ -10,7 +10,11 @@ Hidden Markov Model Market Regime Detection for European Stocks
 ### Features
 
 • Hidden Markov Models
+
 • Market regime detection
+
 • Financial feature engineering
+
 • Quantitative trading strategy
+
 • Performance evaluation
