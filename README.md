@@ -7,7 +7,7 @@ Hidden Markov Model Market Regime Detection for European Stocks
 
 #### Market regimes such as bull and bear markets are modeled as hidden states inferred from observable financial variables.
 
-### Features
+## Features
 
 • Hidden Markov Models
 
